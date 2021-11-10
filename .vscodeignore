@@ -2,3 +2,4 @@
 .vscode-test/**
 .gitignore
 *.vsix
+pat.txt
