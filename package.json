@@ -1,30 +1,28 @@
 {
-    "name": "enough-with-the-palenight",
-    "displayName": "Enough with the Palenight",
-    "description": "Straightforward palenight themes",
+	"name": "enough-with-the-palenight",
+	"displayName": "Enough with the Palenight",
+	"description": "Straightforward palenight themes",
 	"publisher": "Lebster",
-    "version": "1.0.0",
-    "engines": {"vscode": "^1.62.0"},
-    "categories": ["Themes"],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Palenight OneDark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/onedark.json"
-            },
+	"version": "1.0.0",
+	"engines": {"vscode": "^1.62.0"},
+	"categories": ["Themes"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LebsterFace/enough-with-the-palenight"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Palenight OneDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/onedark.json"
+			},
 			{
 				"label": "Palenight Material",
 				"uiTheme": "vs-dark",
 				"path": "./themes/material.json"
 			}
-        ]
-    },
-	"keywords": [
-		"theme",
-		"dark",
-		"palenight",
-		"onedark",
-		"material"
-	]
+		]
+	},
+	"keywords": ["theme", "dark", "palenight", "onedark", "material"]
 }
