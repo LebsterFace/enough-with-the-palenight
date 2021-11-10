@@ -2,6 +2,7 @@
     "name": "enough-with-the-palenight",
     "displayName": "Enough with the Palenight",
     "description": "Straightforward palenight themes",
+	"publisher": "Lebster",
     "version": "1.0.0",
     "engines": {"vscode": "^1.62.0"},
     "categories": ["Themes"],
@@ -18,5 +19,12 @@
 				"path": "./themes/material.json"
 			}
         ]
-    }
+    },
+	"keywords": [
+		"theme",
+		"dark",
+		"palenight",
+		"onedark",
+		"material"
+	]
 }
