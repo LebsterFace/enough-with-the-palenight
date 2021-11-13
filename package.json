@@ -3,11 +3,15 @@
 	"displayName": "Enough with the Palenight",
 	"description": "Straightforward palenight themes",
 	"publisher": "Lebster",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.62.0"
 	},
-	"categories": ["Themes", "Other"],
+	"icon": "icon.png",
+	"categories": [
+		"Themes",
+		"Other"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/LebsterFace/enough-with-the-palenight"
@@ -26,7 +30,13 @@
 			}
 		]
 	},
-	"keywords": ["theme", "dark", "palenight", "onedark", "material"],
+	"keywords": [
+		"theme",
+		"dark",
+		"palenight",
+		"onedark",
+		"material"
+	],
 	"galleryBanner": {
 		"color": "#31364A",
 		"theme": "dark"
