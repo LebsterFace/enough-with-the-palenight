@@ -3,9 +3,9 @@
 	"displayName": "Enough with the Palenight",
 	"description": "Straightforward palenight themes",
 	"publisher": "Lebster",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"engines": {
-		"vscode": "^1.62.0"
+		"vscode": "^0.10.5"
 	},
 	"icon": "icon.png",
 	"categories": [
