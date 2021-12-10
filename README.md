@@ -5,7 +5,7 @@ Straightforward *Palenight* themes for Visual Studio Code.
 ## Screenshots
 
 **Palenight Material**
-![Palenight Material](material.png)
+![Palenight Material](screenshots/material.png)
 
 **Palenight OneDark**
-![Palenight OneDark](onedark.png)
+![Palenight OneDark](screenshots/onedark.png)
