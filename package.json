@@ -3,7 +3,7 @@
 	"displayName": "Enough with the Palenight",
 	"description": "Straightforward palenight themes",
 	"publisher": "Lebster",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"engines": {
 		"vscode": "^0.10.5"
 	},
